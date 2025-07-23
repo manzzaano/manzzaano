@@ -3,8 +3,7 @@
 ## ℹ️ About Me:
 🟢 I’m currently learning Java, HTML, CSS, JavaScript, and MySQL  <br>
 🟢 I’m studying Multiplatform Application Development (2nd year)  <br>
-🟢 I’m interested in web development and clean UI design  <br>
-🟢 I’m building small personal projects to improve my skills 
+🟢 Interested in software development with a focus on practical, real-world applications
 
 ### 🌐 Socials:
 [Instagram](https://instagram.com/manzzaano) | [Email](mailto:ismaelmanzanoleon@gmail.com)
