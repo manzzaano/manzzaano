@@ -6,7 +6,7 @@
 🟢 Interested in software development with a focus on practical, real-world applications
 
 ### 🌐 Socials:
-[Instagram](https://instagram.com/manzzaano) | [Email](mailto:ismaelmanzanoleon@gmail.com)
+[Instagram](https://instagram.com/manzzaano) | [LinkedIn](https://www.linkedin.com/in/ismael-manzano-le%C3%B3n-84b266238) | [Email](mailto:ismaelmanzanoleon@gmail.com)
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
