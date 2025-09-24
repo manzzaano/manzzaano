@@ -20,6 +20,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manzzaano&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manzzaano&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manzzaano&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manzzaano&theme=react&show_icons=true&hide_border=true&count_private=true)</br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manzzaano&theme=react&show_icons=true&hide_border=true&layout=compact)
