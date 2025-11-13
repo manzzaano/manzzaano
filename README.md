@@ -13,10 +13,6 @@
 
 ### 💻 Stack Tecnológico
 
-<p align="center">
-  <em>Tecnologías y herramientas con las que desarrollo, despliego y mantengo mis proyectos.</em>
-</p>
-
 #### 🧠 Lenguajes
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>&nbsp;
@@ -52,8 +48,6 @@
 ---
 
 ### 🏆 Proyectos Destacados
-
-<p align="center">Repositorios que representan mi enfoque técnico y creativo.</p>
 
 <p align="center">
   <a href="https://github.com/manzzaano/REGICIDE">
