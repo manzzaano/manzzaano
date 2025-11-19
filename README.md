@@ -66,19 +66,11 @@
 ### 📈 Métricas y Actividad
 
 <p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=manzzaano&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzzaano&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=manzzaano&theme=react&hide_border=true" alt="Racha de contribuciones" />
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=manzzaano&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img width="33%" src="https://github-readme-activity-graph.vercel.app/graph?username=manzzaano&theme=react-dark&hide_border=true&bg_color=20232a&color=61DAFB&line=61DAFB&point=FFFFFF" alt="Gráfico de actividad" />
-</p>
-
-<p align="center">
-</p>
-
-<p align="center">
 </p>
 
 ---
@@ -86,7 +78,7 @@
 ### 📬 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ismael-manzano-le%C3%B3n-84b266238/">
+  <a href="https://www.linkedin.com/in/ismael-manzano-leon/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ismaelmanzanoleon@gmail.com">
