@@ -1,90 +1,89 @@
-<h1 align="center">🚀 Ismael Manzano León (manzzaano)</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Desarrollador Multiplataforma</strong> enfocado en crear <strong>soluciones de software prácticas, escalables y bien diseñadas.</strong>
-</p>
-
-<p align="center">
-  Actualmente curso 2º de <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong>.  
-  Mi objetivo es construir herramientas tecnológicas que resuelvan <em>problemas reales con código limpio y eficiente.</em>
-</p>
-
----
-
-### 💻 Stack Tecnológico
-
-#### 🧠 Lenguajes
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;
-  <img src="https://img.shields.io/badge/SQL-%23FF9000.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>&nbsp;
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-#### ⚙️ Frameworks & Tecnologías
-<p align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="Vue.js"/>&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
-  <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-</p>
-
-#### 🗃️ Bases de Datos & Herramientas
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>&nbsp;
-  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>&nbsp;
-  <img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
-</p>
-
----
-
-### 🏆 Proyectos Destacados
-
-<p align="center">
-  <a href="https://github.com/manzzaano/REGICIDE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manzzaano&repo=REGICIDE&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB" />
-  </a>
-  <a href="https://github.com/manzzaano/POKEDEX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manzzaano&repo=POKEDEX&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB" />
-  </a>
-  <a href="https://github.com/manzzaano/PortafolioTerminal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manzzaano&repo=PortafolioTerminal&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB" />
-  </a>
-</p>
-
----
-
-### 📈 Métricas y Actividad
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=manzzaano&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzzaano&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Lenguajes más usados" />
-</p>
-
----
-
-### 📬 Conecta conmigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ismael-manzano-leon/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ismaelmanzanoleon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://github.com/manzzaano">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Ismael+Manzano+Le%C3%B3n;Software+Developer;Clean+Code+%26+Architecture;Java+%7C+React+%7C+Vue.js+%7C+Azure" alt="Typing SVG" />
   </a>
-</p>
+
+  <p align="center">
+    <em>"No escribo código para que funcione, escribo código para que sea robusto y mantenible."</em>
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/ismael-manzano-leon" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:ismaelmanzanoleon@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://manzzaano.github.io/PortafolioTerminal" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Terminal_CLI-black?style=for-the-badge&logo=gnubash&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+
+</div>
+
+<br />
+
+## 👨‍💻 `Sobre mí`
+
+Soy un **Desarrollador de Software** enfocado obsesivamente en la excelencia técnica. Mi transición al mundo del desarrollo no fue casualidad; aplico la misma disciplina y organización que aprendí en entornos de alta presión (hostelería) a la arquitectura de software.
+
+Mi objetivo no es solo "picar código", sino integrarme en **equipos de alto rendimiento** priorizando la **Deuda Técnica Cero** y la proactividad. Busco la complejidad lógica y disfruto creando sistemas escalables desde el **Clean Code**.
+
+* 🔭 **Actualmente trabajando en:** Componentes reutilizables en **React/Vite** y despliegues en **Azure**.
+* 🌱 **Aprendiendo:** Patrones de diseño avanzados y **CI/CD** pipelines.
+* ⚡ **Filosofía:** "Programo por disciplina, no por inercia".
+
+---
+
+## 🛠️ `Arsenal Técnico`
+
+<div align="center">
+
+| **Core & Backend** | **Frontend Moderno** | **Cloud & DevOps** |
+|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+
+</div>
+
+<br/>
+
+## 🚀 `Proyectos Desplegados`
+
+<details>
+<summary><strong>📂 Click para ver Arquitectura y Proyectos</strong></summary>
+<br />
+
+| Proyecto | Stack & Arquitectura | Highlights |
+| :--- | :--- | :--- |
+| **💻 Portafolio Terminal CLI** | `Vue 3` `Composition API` `Tailwind` | • Simulación de Kernel Linux en web.<br>• Sistema de comandos y parseo de inputs.<br>• [Ver Demo](https://manzzaano.github.io/PortafolioTerminal) |
+| **⚔️ Regicide (Strategy)** | `Java` `JavaFX` `MVC Pattern` | • Persistencia de datos propia.<br>• Lógica POO estricta y Clean Architecture.<br>• Exportación de estadísticas CSV. |
+| **🔴 Pokédex SPA** | `React` `Vite` `Axios` | • Consumo asíncrono de API REST.<br>• Renderizado condicional de alto rendimiento. |
+
+</details>
+
+<br/>
+
+## 📊 `Métricas de GitHub`
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=manzzaano&theme=black-ice&hide_border=true&locale=es" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🏆 Certificaciones</h3>
+  <img src="https://img.shields.io/badge/Microsoft-Azure_AI_Essentials-0078D4?style=flat-square&logo=microsoft" alt="Azure AI" />
+</div>
+
+---
+
+<div align="center">
+  <p>¿Te interesa un perfil que combina <b>solidez técnica</b> con <b>calidad de código</b>?</p>
+  <a href="mailto:ismaelmanzanoleon@gmail.com">
+    <img src="https://img.shields.io/badge/Hablemos-Contactar_ahora-success?style=for-the-badge" alt="Contactar" />
+  </a>
+</div>
