@@ -53,7 +53,7 @@ Soy un desarrollador enfocado en el diseño de sistemas lógicos, eficientes y m
 | :--------------------------------------------------------------------------- | :--------------------- | :---------------------------------------------- |
 | **💻 [Portafolio Terminal](https://manzzaano.github.io/PortafolioTerminal)** | `Vue 3` `Architecture` | Simulación de Kernel Linux en entorno web.      |
 | **⚔️ Regicide Engine**                                                       | `Java` `MVC Pattern`   | Lógica POO estricta y Clean Architecture.       |
-| **🔐 Core Architecture**                                                     | `Integración` `IA`     | Sistemas de automatización de alto rendimiento. |
+| **🔐 [Pokédex - IML](https://manzzaano.github.io/POKEDEX)**                                                     | `React` `API Rest`     | Pokédex extendida aplicando consumo de PokéAPI. |
 
 </div>
 
