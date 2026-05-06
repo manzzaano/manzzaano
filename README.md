@@ -59,7 +59,7 @@ Sistema avanzado de generación automatizada de propuestas y landings para capta
 **Enciclopedia Pokémon de alto rendimiento.**
 Aplicación reactiva desarrollada con **React** y **Zustand** para una gestión de estado global eficiente. Implementa consumo avanzado de **PokeAPI**, filtrado por tipos y visualización detallada de estadísticas y variantes shiny.
 
-### ⚔️ [Regicide](github.com/manzzaano/Regicide)
+### ⚔️ [Regicide](https://github.com/manzzaano/Regicide)
 **Core de lógica de juego en Java.**
 Proyecto enfocado en la aplicación estricta de Programación Orientada a Objetos (POO) y el patrón **MVC**, garantizando una arquitectura desacoplada y escalable.
 
