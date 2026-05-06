@@ -24,7 +24,7 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador enfocado en el diseño de sistemas lógicos, eficientes y mantenibles. Mi enfoque principal es la **Arquitectura Limpia (Clean Architecture)** y la creación de código robusto que prioriza la escalabilidad y la calidad desde la base[cite: 1].
+Soy un desarrollador enfocado en el diseño de sistemas lógicos, eficientes y mantenibles. Mi enfoque principal es la **Arquitectura Limpia (Clean Architecture)** y la creación de código robusto que prioriza la escalabilidad y la calidad desde la base.
 
 - 🚀 **Especialidad:** Full-Stack Developer con fuerte inclinación hacia la lógica de Backend y automatización de procesos.
 - ⚡ **Enfoque:** Implementación de patrones de diseño y mentalidad QA para reducir la deuda técnica.
@@ -49,17 +49,17 @@ Soy un desarrollador enfocado en el diseño de sistemas lógicos, eficientes y m
 
 ### 💻 [DevConsole](https://manzzaano.github.io/DevConsole)
 **Portafolio interactivo basado en CLI.**
-Simulación de una terminal Linux construida con **Vue 3** y **Vite**[cite: 2]. Permite explorar mi experiencia y proyectos mediante comandos, demostrando habilidades en interactividad y diseño de interfaces no convencionales[cite: 2].
+Simulación de una terminal Linux construida con **Vue 3** y **Vite**. Permite explorar mi experiencia y proyectos mediante comandos, demostrando habilidades en interactividad y diseño de interfaces no convencionales.
 
-### ⚡ [Kairos](https://github.com/manzzaano/kairos)
+### ⚡ [Kairos](https://github.com/manzzaano/Kairos)
 **AI-Powered Landing & Lead Engine.**
-Sistema avanzado de generación automatizada de propuestas y landings para captación de leads[cite: 1]. Construido con **Laravel** y **Filament**, utiliza **Gemini AI** para contenido dinámico y **Google Places API** para enriquecimiento de datos reales[cite: 1].
+Sistema avanzado de generación automatizada de propuestas y landings para captación de leads. Construido con **Laravel** y **Filament**, utiliza **Gemini AI** para contenido dinámico y **Google Places API** para enriquecimiento de datos reales.
 
 ### 🧬 [PokeCore](https://manzzaano.github.io/PokeCore)
 **Enciclopedia Pokémon de alto rendimiento.**
-Aplicación reactiva desarrollada con **React** y **Zustand** para una gestión de estado global eficiente[cite: 3]. Implementa consumo avanzado de **PokeAPI**, filtrado por tipos y visualización detallada de estadísticas y variantes shiny[cite: 3].
+Aplicación reactiva desarrollada con **React** y **Zustand** para una gestión de estado global eficiente. Implementa consumo avanzado de **PokeAPI**, filtrado por tipos y visualización detallada de estadísticas y variantes shiny.
 
-### ⚔️ Regicide
+### ⚔️ [Regicide](github.com/manzzaano/Regicide)
 **Core de lógica de juego en Java.**
 Proyecto enfocado en la aplicación estricta de Programación Orientada a Objetos (POO) y el patrón **MVC**, garantizando una arquitectura desacoplada y escalable.
 
