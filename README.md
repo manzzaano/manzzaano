@@ -13,8 +13,8 @@
     <a href="mailto:ismaelmanzanoleon@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://manzzaano.github.io/PortafolioTerminal" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Terminal_CLI-black?style=for-the-badge&logo=gnubash&logoColor=white" alt="Portfolio"/>
+    <a href="https://manzzaano.github.io/DevConsole" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-DevConsole-black?style=for-the-badge&logo=gnubash&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
 
@@ -22,40 +22,46 @@
 
 <br />
 
-## 🧠 `Sobre mí`
+## 🧠 Sobre mí
 
-Soy un desarrollador enfocado en el diseño de sistemas lógicos, eficientes y mantenibles. Aplico **Clean Architecture**, **Clean Code** y una mentalidad de calidad (QA) desde la primera línea de código.
+Soy un desarrollador enfocado en el diseño de sistemas lógicos, eficientes y mantenibles. Mi enfoque principal es la **Arquitectura Limpia (Clean Architecture)** y la creación de código robusto que prioriza la escalabilidad y la calidad desde la base[cite: 1].
 
-- 🚀 **Perfil:** Full-Stack centrado en lógica de backend y automatización.
-- ⚡ **Filosofía:** "Entender la base para dominar la herramienta".
+- 🚀 **Especialidad:** Full-Stack Developer con fuerte inclinación hacia la lógica de Backend y automatización de procesos.
+- ⚡ **Enfoque:** Implementación de patrones de diseño y mentalidad QA para reducir la deuda técnica.
 
 ---
 
-## 🛠️ `Ecosistema Técnico`
+## 🛠️ Ecosistema Técnico
 
 <div align="center">
 
-|                                                                                          **Backend & Architecture**                                                                                          |                                                 **Frontend & UI**                                                 |                                            **Infraestructura**                                             |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-|      ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)       |         ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)         | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |      ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)       |    ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)     |
-|                                                            ![Clean Code](https://img.shields.io/badge/Clean_Architecture-green?style=flat-square)                                                            | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |         ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)         |
+| **Backend & Architecture** | **Frontend & UI** | **Infraestructura** |
+| :--- | :--- | :--- |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) |
+| ![Filament](https://img.shields.io/badge/Filament_PHP-EBB304?style=flat-square&logo=laravel&logoColor=black) ![Clean Code](https://img.shields.io/badge/Clean_Architecture-green?style=flat-square) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
-<br/>
+---
 
-## 🚀 `Proyectos Destacados`
+## 🚀 Proyectos Destacados
 
-<div align="center">
+### 💻 [DevConsole](https://manzzaano.github.io/DevConsole)
+**Portafolio interactivo basado en CLI.**
+Simulación de una terminal Linux construida con **Vue 3** y **Vite**[cite: 2]. Permite explorar mi experiencia y proyectos mediante comandos, demostrando habilidades en interactividad y diseño de interfaces no convencionales[cite: 2].
 
-| Proyecto                                                                     | Enfoque Técnico        | Highlights                                      |
-| :--------------------------------------------------------------------------- | :--------------------- | :---------------------------------------------- |
-| **💻 [Portafolio Terminal](https://manzzaano.github.io/PortafolioTerminal)** | `Vue 3` `Architecture` | Simulación de Kernel Linux en entorno web.      |
-| **⚔️ Regicide Engine**                                                       | `Java` `MVC Pattern`   | Lógica POO estricta y Clean Architecture.       |
-| **🔐 [Pokédex - IML](https://manzzaano.github.io/POKEDEX)**                                                     | `React` `API Rest`     | Pokédex extendida aplicando consumo de PokéAPI. |
+### ⚡ [Kairos](https://github.com/manzzaano/kairos)
+**AI-Powered Landing & Lead Engine.**
+Sistema avanzado de generación automatizada de propuestas y landings para captación de leads[cite: 1]. Construido con **Laravel** y **Filament**, utiliza **Gemini AI** para contenido dinámico y **Google Places API** para enriquecimiento de datos reales[cite: 1].
 
-</div>
+### 🧬 [PokeCore](https://manzzaano.github.io/PokeCore)
+**Enciclopedia Pokémon de alto rendimiento.**
+Aplicación reactiva desarrollada con **React** y **Zustand** para una gestión de estado global eficiente[cite: 3]. Implementa consumo avanzado de **PokeAPI**, filtrado por tipos y visualización detallada de estadísticas y variantes shiny[cite: 3].
+
+### ⚔️ Regicide
+**Core de lógica de juego en Java.**
+Proyecto enfocado en la aplicación estricta de Programación Orientada a Objetos (POO) y el patrón **MVC**, garantizando una arquitectura desacoplada y escalable.
 
 ---
 
