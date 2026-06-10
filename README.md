@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=520&lines=Ismael+Manzano+Le%C3%B3n;Full+Stack+Developer;TypeScript+%C2%B7+React+%C2%B7+Python+%C2%B7+Docker;leo/" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=520&lines=Ismael+Manzano+Le%C3%B3n;Full+Stack+Developer;React+%C2%B7+TypeScript+%C2%B7+Python" alt="Typing SVG" />
 
   <p align="center">
     <em>"Hay dos tipos de desarrolladores: los que hacen que funcione y los que entienden por qué funciona. Trabajo para ser de los segundos."</em>
