@@ -25,28 +25,12 @@ Full Stack Developer con foco en ingeniería backend y arquitectura de sistemas.
 
 ---
 
-### Stats
+### Sistemas Destacados
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manzzaano&show_icons=true&theme=github_dark&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&bg_color=0d1117)](https://github.com/manzzaano)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manzzaano&layout=compact&theme=github_dark&hide_border=true&title_color=3b82f6&text_color=c9d1d9&bg_color=0d1117)](https://github.com/manzzaano)
-
-</div>
-
----
-
-### Sistemas
-
-<div align="center">
-
-[![Kairos](https://github-readme-stats.vercel.app/api/pin/?username=manzzaano&repo=Kairos&theme=github_dark&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&bg_color=0d1117)](https://github.com/manzzaano/Kairos)
-[![DevConsole](https://github-readme-stats.vercel.app/api/pin/?username=manzzaano&repo=DevConsole&theme=github_dark&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&bg_color=0d1117)](https://github.com/manzzaano/DevConsole)
-
-[![PokeCore](https://github-readme-stats.vercel.app/api/pin/?username=manzzaano&repo=PokeCore&theme=github_dark&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&bg_color=0d1117)](https://github.com/manzzaano/PokeCore)
-[![Regicide](https://github-readme-stats.vercel.app/api/pin/?username=manzzaano&repo=Regicide&theme=github_dark&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&bg_color=0d1117)](https://github.com/manzzaano/Regicide)
-
-</div>
+* **[Kairos](https://github.com/manzzaano/Kairos)**
+* **[DevConsole](https://github.com/manzzaano/DevConsole)**
+* **[PokeCore](https://github.com/manzzaano/PokeCore)**
+* **[Regicide](https://github.com/manzzaano/Regicide)**
 
 ---
 
