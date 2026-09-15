@@ -27,6 +27,7 @@ Full Stack Developer con foco en ingeniería backend y arquitectura de sistemas.
 
 ### Sistemas Destacados
 
+* **[leo-code](https://github.com/manzzaano/leo-code)**
 * **[Kairos](https://github.com/manzzaano/Kairos)**
 * **[DevConsole](https://github.com/manzzaano/DevConsole)**
 * **[PokeCore](https://github.com/manzzaano/PokeCore)**
