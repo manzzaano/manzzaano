@@ -4,8 +4,6 @@
 
 </div>
 
-## Hola, soy Ismael
-
 Desarrollador full stack: trabajo con Laravel, React, TypeScript y Python. Construyo software, lo llevo a producción y me hago cargo de él. Mi proyecto principal es **leo-mcp**, un servidor MCP que da a los agentes de IA el mapa real de un repositorio.
 
 Estoy abierto a ofertas de trabajo y puedo incorporarme ya, en remoto o presencial desde España.
