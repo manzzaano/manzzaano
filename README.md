@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=580&lines=Ismael+Manzano+Le%C3%B3n;Full+Stack+Developer+%C2%B7+leo%2F;Laravel+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Python)](https://leosoftware.dev)
 
-</div>
 
 Desarrollador full stack: trabajo con Laravel, React, TypeScript y Python. Construyo software, lo llevo a producción y me hago cargo de él. Mi proyecto principal es **leo-mcp**, un servidor MCP que da a los agentes de IA el mapa real de un repositorio.
 
@@ -16,7 +15,7 @@ Estoy abierto a ofertas de trabajo y puedo incorporarme ya, en remoto o presenci
 ### Proyectos
 
 | Proyecto | Qué es | Caso de estudio |
-|---|---|---|
+|:---:|:---:|:---:|
 | **[leo-mcp](https://github.com/manzzaano/leo-code)** | Servidor MCP en Python que indica a Claude Code o Cursor dónde está cada función, quién la llama y qué se rompe al cambiarla. Verificado contra el AST de Python y el compilador de TypeScript. En beta. | [Leer](https://leosoftware.dev/sistemas/leo-mcp) |
 | **[DevConsole](https://github.com/manzzaano/DevConsole)** | Mi portfolio en forma de terminal, en Vue 3. En producción. | [Leer](https://leosoftware.dev/sistemas/devconsole) |
 | **[Kairos](https://github.com/manzzaano/Kairos)** | App Flutter que funciona sin conexión: Realm, sincronización con Supabase y Gemini desde una Edge Function. | [Leer](https://leosoftware.dev/sistemas/kairos) |
@@ -28,3 +27,5 @@ En mis prácticas en Entreredes desarrollé y llevé a producción un SaaS con L
 ### Stack
 
 [![Stack](https://skillicons.dev/icons?i=ts,react,vue,angular,laravel,php,py,java,spring,flutter,postgres,supabase,docker,git&theme=dark)](https://leosoftware.dev)
+
+</div>
