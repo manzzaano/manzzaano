@@ -1,15 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=580&lines=Ismael+Manzano+Le%C3%B3n;Full+Stack+Developer+%C2%B7+leo%2F;Me+adapto+al+stack+del+equipo)](https://leosoftware.dev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=580&lines=Ismael+Manzano+Le%C3%B3n;Junior+AI+Engineer+%C2%B7+Stormbringer;Me+adapto+al+stack+del+equipo)](https://leosoftware.dev)
 
 [![leosoftware.dev](https://img.shields.io/badge/leosoftware.dev-3b82f6?style=flat-square)](https://leosoftware.dev)
 [![DevConsole](https://img.shields.io/badge/DevConsole-222222?style=flat-square&logo=gnubash&logoColor=white)](https://console.leosoftware.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-manzano-leon/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ismaelmanzanoleon@gmail.com)
 
-Desarrollador full stack. Construyo software, lo llevo a producción y me hago cargo de él, con la tecnología que use el equipo: hasta ahora he trabajado con Laravel, React, TypeScript, Python, Java y Flutter.
+Trabajo como Junior AI Engineer en Stormbringer, en el desarrollo y las pruebas de un motor de analítica soberana para defensa y administración pública, con Python, agentes de IA y Docker. Antes hice aplicaciones web con Laravel, React y TypeScript, y también he trabajado con Java y Flutter.
 
-Estoy abierto a ofertas de trabajo y puedo incorporarme ya, en remoto o presencial desde España.
+Antes de modificar un sistema, me aseguro de entender cómo funciona.
 
 ### Proyectos
 
@@ -25,6 +25,6 @@ En mis prácticas en Entreredes desarrollé y llevé a producción un SaaS con L
 
 ### Stack
 
-[![Stack](https://skillicons.dev/icons?i=ts,react,vue,angular,laravel,php,py,java,spring,flutter,postgres,supabase,docker,git&theme=dark)](https://leosoftware.dev)
+[![Stack](https://skillicons.dev/icons?i=py,ts,react,vue,angular,laravel,php,java,spring,flutter,postgres,supabase,docker,git&theme=dark)](https://leosoftware.dev)
 
 </div>
